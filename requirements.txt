@@ -1,0 +1,13 @@
+streamlit
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pytesseract
+Pillow
+openai
+tqdm
+ffmpeg-python
+whisper  # or faster-whisper if preferred
+numpy
+python-multipart
+moviepy
